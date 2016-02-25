@@ -2,3 +2,5 @@
   box-sizing: border-box; }
 
 /*insert custom css below*/
+div {border-style: solid;}
+div {border-color: #99ccff;}
