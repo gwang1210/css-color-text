@@ -6,15 +6,11 @@
   font-family: arial, verdana, sans-sarif;}
 h2 {
   font-family: "Arial Black", Gadget, sans-sarif;}
-div {
-  border-style: solid;}
-div {
-  border-color: #99ccff;}
 
 div {
 width: 490px;
 padding: 50px;
-border: 20px;
+border: 20px solid #99ccff;
 margin: 10px auto 10px auto;
 text-align: left;}
 
