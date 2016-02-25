@@ -21,6 +21,9 @@ text-align: left;}
 .header {
   margin: 10px auto 10px auto;
 }
+.footer {
+  margin: 10px auto 10px auto;
+}
 
 a {
   color: #222;
